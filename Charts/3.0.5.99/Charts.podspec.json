@@ -15,5 +15,5 @@
     "http": "http://192.168.2.20/file/ios_xcframework/Charts_3.0.5_xc.zip",
     "type": "zip"
   },
-  "vendored_frameworks":"Charts_3.0.5_xc/Charts.xcframework"
+  "vendored_frameworks":"Charts.xcframework"
 }
