@@ -26,6 +26,6 @@
       "name": "Core",
       "source_files": "Source/Charts/**/*.swift"
     }
-  ]
+  ],
   "vendored_libraries":"Charts_3.0.5_xc/Charts.xcframework"
 }
