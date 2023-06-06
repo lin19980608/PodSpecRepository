@@ -17,7 +17,7 @@
     "osx": "10.11"
   },
   "source": {
-    "http": "https://github.com/lin19980608/PodSpecRepository/blob/main/Charts/3.0.5_xc/Charts_3.0.5_xc.zip",
+    "http": "https://github.com/lin19980608/PodSpecRepository/blob/main/Charts/Charts_3.0.5_xc.zip",
     "type": "zip"
   },
   "default_subspecs": "Core",
