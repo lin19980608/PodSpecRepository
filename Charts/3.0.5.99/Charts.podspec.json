@@ -1,0 +1,31 @@
+{
+  "name": "Charts",
+  "version": "3.0.5.99",
+  "summary": "Charts is a powerful & easy to use chart library for iOS, tvOS and OSX (and Android)",
+  "homepage": "https://github.com/danielgindi/Charts",
+  "license": {
+    "type": "Apache License, Version 2.0",
+    "file": "LICENSE"
+  },
+  "authors": [
+    "Daniel Cohen Gindi",
+    "Philipp Jahoda"
+  ],
+  "platforms": {
+    "ios": "8.0",
+    "tvos": "9.0",
+    "osx": "10.11"
+  },
+  "source": {
+    "http": "https://github.com/lin19980608/PodSpecRepository/blob/main/Charts/3.0.5_xc/Charts_3.0.5_xc.zip",
+    "type": "zip"
+  },
+  "default_subspecs": "Core",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "Source/Charts/**/*.swift"
+    }
+  ]
+  "vendored_libraries":"Charts_3.0.5_xc/Charts.xcframework"
+}
