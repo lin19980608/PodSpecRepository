@@ -3,10 +3,7 @@
   "version": "3.0.5.99",
   "summary": "Charts is a powerful & easy to use chart library for iOS, tvOS and OSX (and Android)",
   "homepage": "https://github.com/danielgindi/Charts",
-  "license": {
-    "type": "Apache License, Version 2.0",
-    "file": "LICENSE"
-  },
+  "license": "none",
   "authors": [
     "Daniel Cohen Gindi",
     "Philipp Jahoda"
