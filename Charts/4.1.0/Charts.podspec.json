@@ -26,7 +26,7 @@
   "subspecs": [
     {
       "name": "Core",
-      "source_files": "Source/Charts/**/*.swift",
+      "source_files": "Source/Charts/**/*.swift"
     }
   ],
   "swift_version": "5.7"
