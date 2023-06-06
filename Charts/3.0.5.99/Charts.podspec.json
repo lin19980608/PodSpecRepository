@@ -9,12 +9,10 @@
     "Philipp Jahoda"
   ],
   "platforms": {
-    "ios": "8.0",
-    "tvos": "9.0",
-    "osx": "10.11"
+    "ios": "8.0"
   },
   "source": {
-    "http": "https://github.com/lin19980608/PodSpecRepository/blob/main/Charts/Charts_3.0.5_xc.zip",
+    "http": "http://192.168.2.20/file/ios_xcframework/Charts_3.0.5_xc.zip",
     "type": "zip"
   },
   "default_subspecs": "Core",
